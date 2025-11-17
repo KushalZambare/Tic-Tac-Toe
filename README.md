@@ -1,2 +1,2 @@
 # Tic-Tac-Toe
-Simple Game
+Simple and easy game.
