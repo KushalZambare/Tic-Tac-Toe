@@ -1,2 +1,2 @@
 # Tic-Tac-Toe
-Simple and easy game.
+Simple and easy game. No UI.
